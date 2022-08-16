@@ -1,4 +1,4 @@
-package stie.metacoding.junitproject;
+package site.metacoding.junitproject;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

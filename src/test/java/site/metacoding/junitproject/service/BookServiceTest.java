@@ -1,4 +1,4 @@
-package stie.metacoding.junitproject.service;
+package site.metacoding.junitproject.service;
 
 import static org.junit.jupiter.api.Assertions.*;
 
